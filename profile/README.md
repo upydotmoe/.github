@@ -1,7 +1,7 @@
 <b>Welcome</b>
 <br>
 
-We made things.
+We make things.
 <!-- 
 We are social community platform for Artists, here making a better place for artists to share their creativity and get more engagement from non-artist, big artists, and other artists.
 
