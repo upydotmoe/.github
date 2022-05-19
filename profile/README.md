@@ -2,6 +2,15 @@
 <br>
 
 We create things.
+
+<br>
+<br>
+
+<p align="center">
+  <a target="_blank" href="https://twitter.com/upydotmoe">twitter</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://instagram.com/upy.moe">instagram</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://facebook.com/upydotmoe">facebook</a>
+</p>
 <!-- 
 We are social community platform for Artists, here making a better place for artists to share their creativity and get more engagement from non-artist, big artists, and other artists.
 
