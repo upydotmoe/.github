@@ -21,9 +21,14 @@
   <a target="_blank" href="https://twitter.com/upydotmoe">twitter</a>&nbsp; • &nbsp;
   <a target="_blank" href="https://instagram.com/upy.moe">instagram</a>&nbsp; • &nbsp;
   <a target="_blank" href="https://facebook.com/upydotmoe">facebook</a>&nbsp; • &nbsp;
+</p>
+
+<p align="center">
+  ~ <b>support us</b> ~
   <a target="_blank" href="https://patreon.com/upydotmoe">patreon</a>&nbsp; • &nbsp;
   <a target="_blank" href="https://ko-fi.com/upydotmoe">ko-fi</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://saweria.com/upydotmoe">saweria</a>
+  <a target="_blank" href="https://saweria.com/upydotmoe">saweria</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://saweria.com/upydotmoe">support/donate page</a>
 </p>
 <!-- 
 We are social community platform for Artists, here making a better place for artists to share their creativity and get more engagement from non-artist, big artists, and other artists.
