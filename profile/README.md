@@ -20,7 +20,7 @@
   <br>
   <a target="_blank" href="https://twitter.com/upydotmoe">twitter</a>&nbsp; • &nbsp;
   <a target="_blank" href="https://instagram.com/upy.moe">instagram</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://facebook.com/upydotmoe">facebook</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://facebook.com/upydotmoe">facebook</a>
 </p>
 
 <p align="center">
