@@ -28,7 +28,7 @@
   <br>
   <a target="_blank" href="https://patreon.com/upydotmoe">patreon</a>&nbsp; • &nbsp;
   <a target="_blank" href="https://ko-fi.com/upydotmoe">ko-fi</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://saweria.com/upydotmoe">saweria</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://saweria.co/upydotmoe">saweria</a>&nbsp; • &nbsp;
   <a target="_blank" href="https://support-us.upy.moe/">support/donate page</a>
 </p>
 <!-- 
