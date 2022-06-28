@@ -1,6 +1,11 @@
 <p align="center">
   ~ <b>WELCOME</b> ~
 </p>
+
+<p align="center">
+  <b><i>live: </i></b><a target="_blank" href="https://public.upy.moe">public accessible build (preview)</a>
+</p>
+<br>
 <p align="center">
   <a target="_blank" href="https://card.upy.moe">profile card</a>&nbsp; • &nbsp;
   <a target="_blank" href="https://dev.upy.moe">open dev space</a>&nbsp; • &nbsp;
