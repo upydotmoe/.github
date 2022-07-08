@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <b><i>live: </i></b><a target="_blank" href="https://public.upy.moe">public accessible build (preview)</a>
+  <b><i>live: </i></b><a target="_blank" href="https://upy.moe">beta preview</a>
 </p>
 <br>
 <p align="center">
   <a target="_blank" href="https://card.upy.moe">profile card</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://dev.upy.moe">open dev space</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://status.upy.moe">server status</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://support-us.upy.moe">support us</a>
+  <a target="_blank" href="https://build-together.upy.moe">open dev space</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://upy.betteruptime.com/">server status</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://upy.moe/support-us">support us</a>
 </p>
 
 <br>
@@ -29,7 +29,7 @@
   <a target="_blank" href="https://patreon.com/upydotmoe">patreon</a>&nbsp; • &nbsp;
   <a target="_blank" href="https://ko-fi.com/upydotmoe">ko-fi</a>&nbsp; • &nbsp;
   <a target="_blank" href="https://saweria.co/upydotmoe">saweria</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://support-us.upy.moe/">support/donate page</a>
+  <a target="_blank" href="https://upy.moe/support-us">support/donate page</a>
 </p>
 <!-- 
 We are social community platform for Artists, here making a better place for artists to share their creativity and get more engagement from non-artist, big artists, and other artists.
