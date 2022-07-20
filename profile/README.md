@@ -7,8 +7,8 @@
 </p>
 <br>
 <p align="center">
-  <a target="_blank" href="https://card.upy.moe">profile card</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://build-together.upy.moe">open dev space</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://card.upy.moe">user profile card</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://build-together.upy.moe">community dev space</a>&nbsp; • &nbsp;
   <a target="_blank" href="https://upy.betteruptime.com/">server status</a>&nbsp; • &nbsp;
   <a target="_blank" href="https://upy.moe/support-us">support us</a>
 </p>
@@ -18,18 +18,20 @@
 <p align="center">
   ~ <b>our socials</b> ~
   <br>
-  <a target="_blank" href="https://twitter.com/upydotmoe">twitter</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://instagram.com/upydotmoe">instagram</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://facebook.com/upydotmoe">facebook</a>
+  <a target="_blank" href="https://twitter.com/upypy">twitter</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://instagram.com/upypy">instagram</a>&nbsp; • &nbsp;
+  <a target="_blank" href="#">discord</a>
 </p>
+
+<br>
 
 <p align="center">
   ~ <b>support us</b> ~
   <br>
-  <a target="_blank" href="https://patreon.com/upydotmoe">patreon</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://ko-fi.com/upydotmoe">ko-fi</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://saweria.co/upydotmoe">saweria</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://upy.moe/support-us">support/donate page</a>
+  <a target="_blank" href="https://www.paypal.com/paypalme/noric1902">paypal</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://patreon.com/upypy">patreon</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://ko-fi.com/upypy">ko-fi</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://saweria.co/upypy">saweria</a>
 </p>
 <!-- 
 We are social community platform for Artists, here making a better place for artists to share their creativity and get more engagement from non-artist, big artists, and other artists.
