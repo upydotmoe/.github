@@ -18,8 +18,8 @@
 <p align="center">
   ~ <b>our socials</b> ~
   <br>
-  <a target="_blank" href="https://twitter.com/upypy">twitter</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://instagram.com/upypy">instagram</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://twitter.com/upymoe">twitter</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://instagram.com/upymoe">instagram</a>&nbsp; • &nbsp;
   <a target="_blank" href="#">discord</a>
 </p>
 
@@ -29,9 +29,9 @@
   ~ <b>support us</b> ~
   <br>
   <a target="_blank" href="https://www.paypal.com/paypalme/noric1902">paypal</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://patreon.com/upypy">patreon</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://ko-fi.com/upypy">ko-fi</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://saweria.co/upypy">saweria</a>
+  <a target="_blank" href="https://patreon.com/upymoe">patreon</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://ko-fi.com/upymoe">ko-fi</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://saweria.co/upymoe">saweria</a>
 </p>
 <!-- 
 We are social community platform for Artists, here making a better place for artists to share their creativity and get more engagement from non-artist, big artists, and other artists.
