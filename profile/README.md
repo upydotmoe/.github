@@ -19,7 +19,9 @@
   ~ <b>our socials</b> ~
   <br>
   <a target="_blank" href="https://twitter.com/upyapp">twitter</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://instagram.com/upyapp">instagram</a>
+  <a target="_blank" href="https://facebook.com/upyapp">facebook</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://instagram.com/upy_app">instagram</a>
+  <a target="_blank" href="https://patreon.com/upyapp">patreon</a>&nbsp; • &nbsp;
   <!-- <a target="_blank" href="#">discord</a> -->
 </p>
 
