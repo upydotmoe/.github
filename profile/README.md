@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <b><i>live: </i></b><a target="_blank" href="https://preview.upy.moe">preview build</a>
+<!--   <b><i>live: </i></b><a target="_blank" href="https://preview.upy.moe">preview build</a> -->
+  <b><i>live: </i></b>coming soon ~
 </p>
 <br>
 <p align="center">
