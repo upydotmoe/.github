@@ -8,8 +8,8 @@
 </p>
 <br>
 <p align="center">
-  <a target="_blank" href="https://card.upy.moe">user profile card</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://dev.upy.moe">community dev space</a>&nbsp; • &nbsp;
+<!--   <a target="_blank" href="https://card.upy.moe">user profile card</a>&nbsp; • &nbsp; -->
+<!--   <a target="_blank" href="https://dev.upy.moe">community dev space</a>&nbsp; • &nbsp; -->
   <a target="_blank" href="https://upy.betteruptime.com/">server status</a>&nbsp; • &nbsp;
   <a target="_blank" href="https://upy.moe/support-us">support us</a>
 </p>
