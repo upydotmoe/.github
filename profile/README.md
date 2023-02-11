@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-<!--   <b><i>live: </i></b><a target="_blank" href="https://preview.upy.moe">preview build</a> -->
-  <b><i>live: </i></b>coming soon ~
+<b><i>live: </i></b><a target="_blank" href="https://upy.moe">https://upy.moe</a>
+
 </p>
 <br>
 <p align="center">
@@ -19,10 +19,10 @@
 <p align="center">
   ~ <b>our socials</b> ~
   <br>
-  <a target="_blank" href="https://twitter.com/upyapp">twitter</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://facebook.com/upyapp">facebook</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://instagram.com/upy_app">instagram</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://patreon.com/upyapp">patreon</a>
+  <a target="_blank" href="https://twitter.com/upydotmoe">twitter</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://facebook.com/upydotmoe">facebook</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://instagram.com/upy.moe">instagram</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://patreon.com/upydotmoe">patreon</a>
   <!-- <a target="_blank" href="#">discord</a> -->
 </p>
 
@@ -32,9 +32,9 @@
   ~ <b>support us</b> ~
   <br>
   <a target="_blank" href="https://www.paypal.com/paypalme/noric1902">paypal</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://patreon.com/upyapp">patreon</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://ko-fi.com/upyapp">ko-fi</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://saweria.co/upyapp">saweria</a>&nbsp; • &nbsp;
-  <a target="_blank" href="https://github.com/sponsors/uuppyy">GH sponsor</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://patreon.com/upydotmoe">patreon</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://ko-fi.com/upydotmoe">ko-fi</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://saweria.co/upydotmoe">saweria</a>&nbsp; • &nbsp;
+  <a target="_blank" href="https://github.com/sponsors/upydotmoe">GH sponsor</a>&nbsp; • &nbsp;
   <a target="_blank" href="https://upy.moe/pro">pro membership</a>
 </p>
