@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-  ~ <b>support us</b> ~
+  ~ <b>support us (we ran out of marketing budget 😢)</b> ~
   <br>
   <a target="_blank" href="https://www.paypal.com/paypalme/noric1902">paypal</a>&nbsp; • &nbsp;
   <a target="_blank" href="https://patreon.com/upydotmoe">patreon</a>&nbsp; • &nbsp;
