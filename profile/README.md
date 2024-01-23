@@ -1,4 +1,11 @@
 <p align="center">
+  Project Status: <b>ARCHIVED</b><br>
+  <i>I ran out of marketing and operational budget.</i>
+</p>
+
+<hr>
+
+<p align="center">
   ~ <b>WELCOME</b> ~
 </p>
 
