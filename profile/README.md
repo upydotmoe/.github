@@ -1,5 +1,9 @@
+![Screenshot (587)](https://github.com/upydotmoe/.github/assets/7555972/d7c5923f-9913-43b7-bf64-cfe9b6e5d03d)
+
+<p align="center">~ ~ ~</p>
+
 <p align="center">
-  Project Status: <b>ARCHIVED</b><br>
+  Project Status: <b>HIBERNATED</b><br>
   <i>I ran out of marketing and operational budget.</i>
 </p>
 
